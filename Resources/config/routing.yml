@@ -1,0 +1,3 @@
+flex_acl_homepage:
+    path:     /
+    defaults: { _controller: FlexACLBundle:Default:index }
